@@ -1,0 +1,16 @@
+Type: Compendium
+Package: try-Rv4.1
+Title: Demo Of R Version 4.1 In The Browser
+Version: 0.0.1
+Authors@R: 
+    person(given = "Matt",
+           family = "Dray",
+           role = c("aut", "cre"),
+           email = "mwdray@gmail.com")
+Description: A Binder instance of RStudio for trying out R version 4.1, which
+    introduced a new forward pipe operator and lambda-function declaration.
+Remotes: matt-dray/r2eng
+Encoding: UTF-8
+LazyData: true
+Imports:
+    magrittr
