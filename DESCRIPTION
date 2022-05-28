@@ -1,5 +1,5 @@
 Type: Compendium
-Package: try-Rv4.1
+Package: try-Rv4.2
 Title: Demo Of R Version 4.2 In The Browser
 Version: 0.0.2
 Authors@R: 
@@ -9,8 +9,7 @@ Authors@R:
            email = "mwdray@gmail.com")
 Description: A Binder instance of RStudio for trying out R version 4.2, which
     has an underscore placeholder for the right-hand side, following the
-    introduction in 4.1 of the base pipe operator and lambda-function
-    declaration.
+    introduction in 4.1 of the base pipe operator and lambda-function syntax.
 Encoding: UTF-8
 LazyData: true
 Imports:
