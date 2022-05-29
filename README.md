@@ -27,5 +27,5 @@ An underscore placeholder (`_`) for the right-hand side of a base pipe was intro
 
 Two packages are installed with the Binder instance:
 
-1. [The {magrittr} package](https://cran.r-project.org/package=magrittr), crated by [Stefan Milton-Bache](), is also installed into the instance so that you can compare the functionality of the base pipe (`|>`) against the {magrittr} pipe (`%>%`) made popular by the tidyverse.
-2. [The {pipebind} package](https://cran.r-project.org/package=pipebind) by [Brenton Wiernik](https://twitter.com/bmwiernik) is also installed to demonstrate a method for allowing the left-hand side to be passed to more than one placeholder on the right-hand side.
+1. [The {magrittr} package](https://cran.r-project.org/package=magrittr), crated by [Stefan Milton-Bache](https://stefanbache.dk/), is also installed into the instance so that you can compare the functionality of the base pipe (`|>`) against the {magrittr} pipe (`%>%`) made popular by the tidyverse.
+2. [The {pipebind} package](https://cran.r-project.org/package=pipebind) by [Brenton Wiernik](https://wiernik.org/) is also installed to demonstrate a method for allowing the left-hand side to be passed to more than one placeholder on the right-hand side.
