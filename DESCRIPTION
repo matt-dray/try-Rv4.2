@@ -14,5 +14,5 @@ Description: A Binder instance of RStudio for trying out R version 4.2, which
 Encoding: UTF-8
 LazyData: true
 Imports:
-    magrittr
+    dplyr,
     pipebind
